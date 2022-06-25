@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(yellow,green,lime,yellow);
+}
+.nameofperson{
+    color: yellow;
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#camera{
+    border:10px groove silver;
+    width: 350px;
+    height:320px;
+}
+h3{
+    color: rgb(62, 62, 198);
+    font-weight: bold;
+}
+p{
+    font-weight: 900;
+    color: gold;
+}
